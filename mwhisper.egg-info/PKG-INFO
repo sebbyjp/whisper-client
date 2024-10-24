@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mwhisper
+Version: 0.0.1
+Author: mbodiai
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: gradio>=4.44.1
+Requires-Dist: librosa>=0.10.2.post1
+Requires-Dist: torch>=2.5.0
+Requires-Dist: torchaudio>=2.5.0

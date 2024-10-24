@@ -1,0 +1,2 @@
+[console_scripts]
+mwhisper = mwhisper.cli:main
